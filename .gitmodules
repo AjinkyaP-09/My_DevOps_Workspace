@@ -1,3 +1,6 @@
 [submodule "Shell Scripts"]
 	path = Shell Scripts
 	url = https://github.com/AjinkyaP-09/Shell-Scripts.git
+[submodule "GIT_TASKS"]
+	path = GIT_TASKS
+	url = https://github.com/AjinkyaP-09/GIT_TASKS.git
